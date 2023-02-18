@@ -17,5 +17,7 @@ int main()
 {
 	printf("Hello World\n");
 	printf("%d",myAdd(1,2));
+	printf("Hellow");
+	printf("docs");
 	return 0;
 }

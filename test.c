@@ -4,7 +4,7 @@ void mySwap(int *a, int *b)
 {
 	int t;
 	t=*a;
-	*a=*b;
+	*a=*
 	*b=t;
 }
 
